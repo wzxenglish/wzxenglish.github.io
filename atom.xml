@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wzxenglish.github.io</id>
-    <title>王梓羲</title>
-    <updated>2020-03-25T16:22:24.603Z</updated>
+    <title>王梓羲_Joey</title>
+    <updated>2020-03-25T16:23:15.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wzxenglish.github.io"/>
     <link rel="self" href="https://wzxenglish.github.io/atom.xml"/>
     <subtitle>Everything will dissapear through the skylight.</subtitle>
     <logo>https://wzxenglish.github.io/images/avatar.png</logo>
     <icon>https://wzxenglish.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, 王梓羲</rights>
+    <rights>All rights reserved 2020, 王梓羲_Joey</rights>
     <entry>
         <title type="html"><![CDATA[关于]]></title>
         <id>https://wzxenglish.github.io/about/</id>
